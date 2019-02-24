@@ -4,7 +4,7 @@ var pass1 = prompt('Vui lòng nhập mật khẩu',' ');
 while (testV < 3) {
 if (!pass1) 
 location.reload(true);
-if (pass1.toLowerCase() == "123456") {
+if (pass1.toLowerCase() == "123456@n") {
 window.open('https://phuongmy.blog/protect?pms=https://123vaynhanh.vn/');
 break;
 } 
