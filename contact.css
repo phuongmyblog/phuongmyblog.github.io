@@ -86,18 +86,14 @@ fieldset {
 }
 
 #contact button[type="submit"] {
-display: inline - block;
-background - color: #1a73e8;color:# fff;
-border - radius: 3 px;
-padding: 9 px 18 px;
-text - transform: uppercase;
-border: none;
-line - height: normal;
 cursor: pointer;
-position: relative;
-z - index: 2;
-overflow: hidden; - webkit - appearance: none;
-cursor: pointer
+  width: 40%;
+  border: none;
+  background: #4CAF50;
+  color: #FFF;
+  margin: 0 0 5px;
+  padding: 10px;
+  font-size: 15px;
 }
 
 #contact button[type="submit"]:hover {
