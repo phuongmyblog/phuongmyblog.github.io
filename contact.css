@@ -93,6 +93,8 @@ fieldset {
   margin: 0 0 5px;
   padding: 10px;
   font-size: 15px;
+  -moz-border-radius: 10px;
+-webkit-border-radius: 10px;
 }
 
 #contact button[type="submit"]:hover {
