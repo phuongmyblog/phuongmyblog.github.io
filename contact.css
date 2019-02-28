@@ -86,7 +86,7 @@ fieldset {
 
 #contact button[type="submit"] {
   cursor: pointer;
-  width: 100%;
+  width: 40%;
   border: none;
   background: #4CAF50;
   color: #FFF;
@@ -96,8 +96,7 @@ fieldset {
   border-radius: 20px;
   -moz-border-radius: 20px;
   -webkit-border-radius: 20px;
-  margin-left:auto;
-  margin-right:auto;
+
 }
 
 #contact button[type="submit"]:hover {
@@ -109,6 +108,8 @@ fieldset {
 
 #contact button[type="submit"]:active {
   box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.5);
+    margin-left:auto;
+  margin-right:auto;
 }
 
 .copyright {
